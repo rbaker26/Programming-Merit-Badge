@@ -1,4 +1,4 @@
-# Programming Merit Badge
+<h1 algin='center'> Programming Merit Badge </h1>
 This repository (repo) contains everything a Counselor needs to teach a Merit Badge class except your own flare and expertise.  
 
 ## Who am I?
