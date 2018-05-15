@@ -36,7 +36,7 @@ __Ages 14 - 16__
  * Java - Calculate Area of Advanced Shapes
  
 __Ages 16 - 17__
- * HTML + JavaScript - Advanced Temp Conversion
+ * HTML + CSS + JavaScript - Advanced Temp Conversion
  * C++ - USD to multiple currencies
  * C# - Calculate Area of Advanced Shapes w/ Menu
 
