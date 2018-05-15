@@ -40,6 +40,6 @@ __Ages 16 - 17__
  * C++ - USD to multiple currencies
  * C# - Calculate Area of Advanced Shapes w/ Menu
 
-Not every counselor will be knowledgeable in all these languages and that is fine. If you are not knowledgeable in these languages, using you experience, try to substitute languages and problems to match difficulty and complexity.
+Not every counselor will be knowledgeable in all these languages and that is fine. If you are not knowledgeable in these languages, using you experience, try to substitute languages and problems to match difficulty and complexity outlined above.
 The goal here is not inhibit the scout's learning with a language that is too complex or a problem that is too hard.  On the other hand, by giving older scouts may be bored by simpler languages and problem sets.  
 It is important to tailor the material to match the scouts or else the scouts will not have a enjoyable experience.
