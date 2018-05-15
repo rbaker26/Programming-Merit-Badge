@@ -9,7 +9,7 @@ Please feel free to edit my PowerPoint as you wish, but please keep my attributi
 
 ## Who am I?
 My name is Bob Baker, Troop 787, Orange County Council, CA.
-I am a current (as of 2018) Computer Science student at Saddleback College.  I joined Scouts in 2007 and earned my Eagle in 2014. Since 2010, I have been working with the Council's NYLT program while trying to help build permanent programs across the Council including this Programming Merit Badge material.  I hope this material helps lower the barrier to teaching the Programming Merit Badge, so more Scouts can be introduced to the world of programming.
+I am a current (as of 2018) Computer Science student at Saddleback College.  I joined Scouts in 2007 and earned my Eagle in 2014. Since 2010, I have been working with the Council's NYLT program while trying to help build permanent programs across the Council including this Programming Merit Badge material.  I hope this material helps lower the barrier to teaching the Programming Merit Badge, so more scouts can be introduced to the world of programming.
 
 
 ## Who is this for?
@@ -17,7 +17,7 @@ This repo is intended for Programming Merit Badge counselors and scouts trying t
 
 
 ## How to use this material?
-PowerPoints are great communication tools, but can be ineffective for small groups, under 6 Scouts.  If you are dealing with smaller groups, it may be a good idea to develop a more hands-on approach focused on the individual rather than the group.  
+PowerPoints are great communication tools, but can be ineffective for small groups, under 6 scouts.  If you are dealing with smaller groups, it may be a good idea to develop a more hands-on approach focused on the individual rather than the group.  
 Also, be cognizant of the age of your group.  Programming can be tailored to the age of scouts to better communicate the message. The easiest way to do this is by tailoring the languages used.  I would suggest using the following teaching rubric broken down by age...
 
 __Ages 10 - 11__
