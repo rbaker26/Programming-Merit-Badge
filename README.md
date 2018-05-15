@@ -4,6 +4,7 @@
 </div>
 <br>
 This repository (repo) contains everything a Counselor needs to teach a Merit Badge class except your own flare and expertise.  
+Please feel free to edit my PowerPoint as you wish, but please keep my attribution on the title screen.  
 <br>
 
 ## Who am I?
