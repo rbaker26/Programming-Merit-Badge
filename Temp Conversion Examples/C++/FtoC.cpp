@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-
+ 
     float usd = 0;
     float peso = 0;
 
