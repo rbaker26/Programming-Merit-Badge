@@ -30,12 +30,12 @@ __Ages 11 - 14__
  * HTML + JavaScript - Temp Conversion
  * Java - Calculate Area of Shapes
  
-__Ages 14-16__
+__Ages 14 - 16__
  * HTML + JavaScript - String Concatenation + Temp Conversion
  * C++ - USD to MXN Conversion
  * Java - Calculate Area of Advanced Shapes
  
-__Ages 16-17__
+__Ages 16 - 17__
  * HTML + JavaScript - Advanced Temp Conversion
  * C++ - USD to multiple currencies
  * C# - Calculate Area of Advanced Shapes w/ Menu
