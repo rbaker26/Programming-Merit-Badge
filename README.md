@@ -16,7 +16,7 @@ I am a current (as of 2018) Computer Science student at Saddleback College.  I j
 This repo is intended for Programming Merit Badge counselors and scouts trying to earn their Badge. Contained in this repo are example programs, "Hello Worlds" and a PowerPoint outlining the requirements and key concepts of the Programming Merit Badge.  
 
 
-## How to use this material?
+## How to use this material
 PowerPoints are great communication tools, but can be ineffective for small groups, under 6 scouts.  If you are dealing with smaller groups, it may be a good idea to develop a more hands-on approach focused on the individual rather than the group.  
 Also, be cognizant of the age of your group.  Programming can be tailored to the age of scouts to better communicate the message. The easiest way to do this is by tailoring the languages used.  I would suggest using the following teaching rubric broken down by age...
 
@@ -43,3 +43,7 @@ __Ages 16 - 17__
 Not every counselor will be knowledgeable in all these languages and that is fine. If you are not knowledgeable in these languages, using you experience, try to substitute languages and problems to match difficulty and complexity outlined above.
 The goal here is not inhibit the scout's learning with a language that is too complex or a problem that is too hard.  On the other hand, by giving older scouts may be bored by simpler languages and problem sets.  
 It is important to tailor the material to match the scouts or else the scouts will not have a enjoyable experience.
+
+
+## Topics to avoid
+The hardest part for me when teaching this Merit Badge is teaching Programming, not Computer Science.  The purpose of the Badge is not to make our scouts CS Majors overnight.  They don't need to know data structures, optimization techniques, advanced language features or IEEE Floating-Point format.  They are simply here to get an introduction into a career in programming.  
