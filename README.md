@@ -20,22 +20,22 @@ This repo is intended for Programming Merit Badge counselors and scouts trying t
 PowerPoints are great communication tools, but can be ineffective for small groups, under 6 scouts.  If you are dealing with smaller groups, it may be a good idea to develop a more hands-on approach focused on the individual rather than the group.  
 Also, be cognizant of the age of your group.  Programming can be tailored to the age of scouts to better communicate the message. The easiest way to do this is by tailoring the languages used.  I would suggest using the following teaching rubric broken down by age...
 
-__Ages 10 - 11__
+__Ages 10 - 11__ (group 1)
  * Python - Hello World
  * Scratch - Temp Conversion 
  * HTML + JavaScript - String Output
  
-__Ages 11 - 14__
+__Ages 11 - 14__ (group 2)
  * C++ - Hello World
  * HTML + JavaScript - Temp Conversion
  * Java - Calculate Area of Shapes
  
-__Ages 14 - 16__
+__Ages 14 - 16__ (group 3)
  * HTML + JavaScript - String Concatenation + Temp Conversion
  * C++ - USD to MXN Conversion
  * Java - Calculate Area of Advanced Shapes
  
-__Ages 16 - 17__
+__Ages 16 - 17__ (group 4)
  * HTML + CSS + JavaScript - Advanced Temp Conversion
  * C++ - USD to multiple currencies
  * C# - Calculate Area of Advanced Shapes w/ Menu
