@@ -46,4 +46,4 @@ It is important to tailor the material to match the scouts or else the scouts wi
 
 
 ## Topics to avoid
-The hardest part for me when teaching this Merit Badge is teaching Programming, not Computer Science.  The purpose of the Badge is not to make our scouts CS Majors overnight.  They don't need to know data structures, optimization techniques, advanced language features or IEEE Floating-Point format.  They are simply here to get an introduction into a career in programming.  
+The hardest part for me when teaching this Merit Badge is teaching Programming, not Computer Science.  The purpose of the Badge is not to make our scouts CS Majors overnight.  They don't need to know data structures, optimization techniques, advanced language features or IEEE Floating-Point format.  The scouts are simply here to get an introduction into a career in programming.  
