@@ -17,7 +17,7 @@ This repo is intended for Programming Merit Badge Counselors and Scouts trying t
 
 
 ## How to use this material?
-PowerPoints are great communication tools, but can be ineffective for small groups, under 6 Scouts.  If you are dealing with smaller groups, it may be a good idea to develop a more hands-on approach focused on the individual.  
+PowerPoints are great communication tools, but can be ineffective for small groups, under 6 Scouts.  If you are dealing with smaller groups, it may be a good idea to develop a more hands-on approach focused on the individual rather than the group.  
 Also, be cognizant of the age of your group.  Programming can be tailored to the age of scouts to better communicate the message. The easiest way to do this is by tailoring the languages used.  I would suggest using the following teaching rubric broken down by age...
 
 __Ages 10 - 11__
@@ -40,5 +40,5 @@ __Ages 16-17__
  * C++ - USD to multiple currencies
  * C# - Calculate Area of Advanced Shapes w/ Menu
 
-Not every Counselor will be knowledgeable in all these languages and that is fine.  The goal here is not inhibit the Scout's learning with a language that is too complex or a problem that is too hard.  On the other hand, by giving older Scouts may be bored by simpler languages and problem sets.  
+Not every counselor will be knowledgeable in all these languages and that is fine.  The goal here is not inhibit the scout's learning with a language that is too complex or a problem that is too hard.  On the other hand, by giving older scouts may be bored by simpler languages and problem sets.  
 It is important to tailor the material to match the scouts or else the scouts will not have a enjoyable experience.
