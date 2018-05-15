@@ -13,7 +13,7 @@ I am a current (as of 2018) Computer Science student at Saddleback College.  I j
 
 
 ## Who is this for?
-This repo is intended for Programming Merit Badge Counselors and Scouts trying to earn their Badge. Contained in this repo are example programs, "Hello Worlds" and a PowerPoint outlining the requirements and key concepts of the Programming Merit Badge.  
+This repo is intended for Programming Merit Badge counselors and scouts trying to earn their Badge. Contained in this repo are example programs, "Hello Worlds" and a PowerPoint outlining the requirements and key concepts of the Programming Merit Badge.  
 
 
 ## How to use this material?
