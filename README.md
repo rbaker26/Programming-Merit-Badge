@@ -1,5 +1,5 @@
 <h1 align="center"> Programming Merit Badge </h1>
-<img align="center" src="../rec/Programming.jpg" />
+<img align="center" src="/rec/Programming.jpg" />
 <br>
 This repository (repo) contains everything a Counselor needs to teach a Merit Badge class except your own flare and expertise.  
 
