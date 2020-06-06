@@ -5,6 +5,7 @@
 <br>
 This repository (repo) contains everything a Counselor needs to teach a Merit Badge class except your own flare and expertise.  
 Please feel free to edit my PowerPoint as you wish, but please keep my attribution on the title screen.  
+Also, please link back to this original repository https://github.com/rbaker26/Programming-Merit-Badge so users can receive up-to-date content and I get credit for the work I put into this project. 
 <br>
 
 ## Who am I?
