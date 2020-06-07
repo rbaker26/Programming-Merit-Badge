@@ -25,7 +25,7 @@ Also, be cognizant of the age of your group.  Programming can be tailored to the
 __Ages 10 - 11__ (group 1)
  * Python - Hello World
  * Scratch - Temp Conversion 
- * HTML + JavaScript - String Output
+ * HTML + JavaScript - Name Output
  
 __Ages 11 - 14__ (group 2)
  * C++ - Hello World
