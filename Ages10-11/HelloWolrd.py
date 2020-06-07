@@ -1,2 +1,3 @@
 # This is Hello World in Python
-print("Hello World")
+myString = 'Hello World!'
+print(myString)
